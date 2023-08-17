@@ -1,0 +1,10 @@
+import Heading from "@/components/Heading";
+
+export default function HollowKnightPage() {
+  return (
+    <>
+      <Heading>Hollow Knight</Heading>
+      <p>Article about Hollow Knight here.</p>
+    </>
+  );
+}
